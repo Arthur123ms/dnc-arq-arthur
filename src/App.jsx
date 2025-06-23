@@ -6,7 +6,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
-import LoadingSpinner from './components/LOadingSpinner/LOadingSpinner'
+import LoadingSpinner from './components/LoadingSpinner/LoadingSpinner'
 
 
 // UTILS

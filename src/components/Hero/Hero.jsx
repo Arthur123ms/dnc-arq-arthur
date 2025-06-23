@@ -1,7 +1,7 @@
 import { useContext } from 'react'
 import { Link } from 'react-router-dom'
 import './Hero.css'
-import Button from './Button/Button'
+import Button from '/Users/Arthur Magalahães/REACT.Js/dnc-arq-arthur/src/components/Button/Button'
 
 
 import { AppContext } from '../../contexts/AppContext'

@@ -9,7 +9,7 @@ import Like from '../../assets/like.svg'
 // utils
 import { getApiData } from '../../services/apiServices'
 
-import Button from './Button/Button'
+import Button from '/Users/Arthur Magalahães/REACT.Js/dnc-arq-arthur/src/components/Button/Button'
 
 import { AppContext } from '../../contexts/AppContext'
 

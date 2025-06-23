@@ -9,7 +9,7 @@ import Like from '../../assets/like.svg'
 // utils
 import { getApiData } from '../../services/apiServices'
 
-import Button from '../button/Button'
+import Button from './Button/Button'
 
 import { AppContext } from '../../contexts/AppContext'
 

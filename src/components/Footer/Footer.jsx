@@ -16,7 +16,7 @@ import instagram from '../../assets/instagram.svg'
 
 //CONtext
 import { AppContext } from "../../contexts/AppContext"
-import Button from "../button/Button"
+import Button from "./Button/Button"
 
 function Footer() {
     const appContext = useContext(AppContext)

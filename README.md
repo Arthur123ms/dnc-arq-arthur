@@ -1,12 +1,79 @@
-# React + Vite
+# ⚛️ DNC Arquitetura - Arthur
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/react-18.2.0-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/vite-5.0.0-646CFF?logo=vite)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
-Currently, two official plugins are available:
+Projeto front-end desenvolvido com **React + Vite**, configurado com ESLint para padronização de código. Esta estrutura serve como base para aplicações web modernas e rápidas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [ESLint](https://eslint.org/)
+
+---
+
+## 📂 Estrutura do Projeto
+
+├── public/ # Arquivos públicos
+
+├── src/ # Código-fonte principal
+
+├── index.html # HTML principal
+
+├── vite.config.js # Configuração do Vite
+
+├── eslint.config.js # Regras do ESLint
+
+├── package.json # Dependências e scripts
+
+└── ...
+
+
+## ⚙️ Como executar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Arthur123ms/dnc-arq-arthur
+   cd dnc-arq-arthur
+2. Instale as dependências:
+```bash
+  npm install
+```
+
+3. Inicie o servidor de desenvolvimento:
+```bash
+  npm run dev
+```
+
+4. Acesse no navegador:
+```bash
+  http://localhost:5173
+```
+
+## ☁️ Deploy
+
+Você pode fazer deploy deste projeto facilmente com:
+
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+
+### Exemplo (com Vercel):
+
+1. Acesse [vercel.com](https://vercel.com/)
+2. Clique em **New Project**
+3. Selecione este repositório
+4. Aceite as configurações padrão e clique em **Deploy**
+
+## 📝 Licença
+
+Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
+
+
+> Projeto criado por [Arthur123ms](https://github.com/Arthur123ms).
+

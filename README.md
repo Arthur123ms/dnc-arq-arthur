@@ -3,7 +3,8 @@
 ![React](https://img.shields.io/badge/react-18.2.0-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/vite-5.0.0-646CFF?logo=vite)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen)
+
 
 Projeto front-end desenvolvido com **React + Vite**, configurado com ESLint para padronização de código. Esta estrutura serve como base para aplicações web modernas e rápidas.
 

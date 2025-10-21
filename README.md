@@ -75,8 +75,9 @@ Você pode fazer deploy deste projeto facilmente com:
 
 Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
 
+--
 
-👤 Autor
+## 👤 Autor
 
 Desenvolvido por Arthur Souza
 

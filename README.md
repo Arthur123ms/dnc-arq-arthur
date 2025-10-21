@@ -76,5 +76,11 @@ Você pode fazer deploy deste projeto facilmente com:
 Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
 
 
-> Projeto criado por [Arthur123ms](https://github.com/Arthur123ms).
+👤 Autor
+
+Desenvolvido por Arthur Souza
+
+[🔗 Meu GitHub ]("https://github.com/Arthur123ms") 
+
+[🔗 LinkedIn ]("https://www.linkedin.com/in/arthur-magalh%C3%A3es-444565230/")
 

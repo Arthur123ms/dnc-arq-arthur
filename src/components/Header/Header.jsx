@@ -6,7 +6,7 @@ import "../Header/Header.css"
 import Logo from '../../assets/dnc-logo 2.svg'
 
 // components
-import Button from '/Users/Arthur Magalahães/REACT.Js/dnc-arq-arthur/src/components/Button/Button'
+import  Button  from "../Button/Button"
 
 import { AppContext } from "../../contexts/AppContext"
 
